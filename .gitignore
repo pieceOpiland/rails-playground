@@ -17,3 +17,7 @@
 .byebug_history
 
 /.idea/*
+*.iml
+
+# Ignore vendor gems
+/vendor/bundle
